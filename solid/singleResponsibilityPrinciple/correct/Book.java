@@ -1,12 +1,12 @@
-package solid.single_responsibility_principle.correct;
+package solid.singleResponsibilityPrinciple.correct;
 
-public class BookC {
+public class Book {
 
     private String title;
     private String author;
     private Integer numberPages;
 
-    public BookC(String title, String author, Integer numberPages) {
+    public Book(String title, String author, Integer numberPages) {
         this.title = title;
         this.author = author;
         this.numberPages = numberPages;

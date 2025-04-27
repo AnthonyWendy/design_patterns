@@ -1,8 +1,8 @@
-package solid.single_responsibility_principle.correct;
+package solid.singleResponsibilityPrinciple.correct;
 
 public class BookCService {
 
-    public void printBook(BookC book) {
+    public void printBook(Book book) {
 
         System.out.println("Title: " + book.getTitle());
         System.out.println("Author: " + book.getAuthor());

@@ -1,6 +1,6 @@
-package solid.single_responsibility_principle.correct;
+package solid.singleResponsibilityPrinciple.correct;
 
-import solid.single_responsibility_principle.wrong.BookW;
+import solid.singleResponsibilityPrinciple.wrong.Book;
 
 public class Main {
     public static void main(String[] args) {
@@ -10,10 +10,10 @@ public class Main {
         System.out.print("\n");
 
         // Wrong
-        BookW bookW = new BookW("Atomic Habits", "James Clear", 320);
-        bookW.save();
+        Book book = new Book("Atomic Habits", "James Clear", 320);
+        book.save();
         System.out.print("\n");
-        bookW.printBook();
+        book.printBook();
 
 
 
