@@ -16,6 +16,6 @@ public class Main {
         System.out.println("instanceOne == instanceTwo? " + (instanceOne == instanceTwo));
         System.out.println("instanceThree == instanceFour? " + (instanceThree == instanceFour));
 
-        System.out.println("\nPassword changed successfully.");
+        System.out.println("\nCreade Singleton instanc successfully.");
     }
 }
