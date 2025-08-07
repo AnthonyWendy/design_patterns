@@ -22,7 +22,7 @@ Cada exemplo inicia com uma **implementação incorreta ou ineficiente**, seguid
 ---
 
 ### 🏗️ Padrões Criacionais
-- [❌] Singleton
+- [✅]] Singleton
 - [❌] Factory Method
 - [❌] Abstract Factory
 - [❌] Builder
