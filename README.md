@@ -22,7 +22,7 @@ Cada exemplo inicia com uma **implementação incorreta ou ineficiente**, seguid
 ---
 
 ### 🏗️ Padrões Criacionais
-- [✅]] Singleton
+- [✅] Singleton
 - [❌] Factory Method
 - [❌] Abstract Factory
 - [❌] Builder
@@ -60,3 +60,7 @@ Cada exemplo inicia com uma **implementação incorreta ou ineficiente**, seguid
 - Vídeo - [SOLID fica FÁCIL com Essas Ilustrações](https://www.youtube.com/watch?v=6SfrO3D4dHM&t=707s&ab_channel=FilipeDeschamps)
 - Vídeo - [Programadores com código sujo : SOLID](https://www.youtube.com/watch?v=J2ugvRObGT4&ab_channel=LucasMontano)
 - Vídeo - [Clean Code e Solid com Alberto Sousa, o Dev Eficiente](https://www.youtube.com/watch?v=XV9B4LX_re8&ab_channel=Alura)
+- Vídeo - [Refactoring Guru: Singleton](https://refactoring.guru/pt-br/design-patterns/singleton)
+- Vídeo - [Singleton: guia completo para entender essa polêmica de uma vez por todas!: Singleton](https://www.softplan.com.br/tech-writers/singleton-guia-completo-para-entender-essa-polemica-de-uma-vez-por-todas/)
+- Vídeo - [Refactoring Guru: Singleton em Java](https://refactoring.guru/pt-br/design-patterns/singleton/java/example)
+- Vídeo - [O uso do Singleton Design Pattern](https://medium.com/@deutnerg/padr%C3%A3o-de-design-singleton-20d7a8c5d3e8)
